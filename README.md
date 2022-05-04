@@ -42,7 +42,7 @@ Server 2
 4. Click [FORK](https://github.com/TURBOHYPER/Toxic-Alexa/fork)
 5. Click the url showing below to copy deploy template
 ```
-https://heroku.com/deploy?template=https://github.com/TURBOHYPER/Toxic-Alexa
+https://heroku.com/deploy?template=https://github.com/Abhi-kalippan/Toxic-Alexa
 ``` 
 6. Now change TURBOHYPER with your github username and click ENJOY<br>
    <br>
